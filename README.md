@@ -60,11 +60,13 @@ Machine Learning project for employee attrition prediction
 ## Business Impact & Insights
 
 * **Actionable Risk Metrics:** The Streamlit application outputs a precise probability score rather than a simple binary classification, allowing HR professionals to prioritize interventions for employees sitting in the highest risk brackets.
+* 
+* **Data-Driven Retention:** By analyzing the top features driving the model's decisions (such as high overtime hours paired with low stock option levels), management can pinpoint systemic organizational issues and adjust corporate policies to improve overall workplace satisfaction.
 
 TEAM MEMBERS:
-Joice Mina Refaat
-Zamzam Mohamad Nasser
-Malak Elhusany
-Ahmed Mohsen
-Ahmed Alkhatib
+Joice Mina Refaat,
+Zamzam Mohamad Nasser,
+Malak Elhusany,
+Ahmed Mohsen,
+Ahmed Alkhatib,
 * **Data-Driven Retention:** By analyzing the top features driving the model's decisions (such as high overtime hours paired with low stock option levels), management can pinpoint systemic organizational issues and adjust corporate policies to improve overall workplace satisfaction.
